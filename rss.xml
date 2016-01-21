@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ZachLarmer]]></title>
-        <description><![CDATA[ZachLarmer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Zach Larmer - Musician]]></title>
+        <description><![CDATA[Zach Larmer - Musician]]></description>
+        <link>https://thegrid.ai/zachlarmer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 17:04:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 17:08:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zachlarmer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello everyone. This is the new beta site for Zach Larmer, jazz guitarist and composer.</p>]]></description>
+            <link>https://thegrid.ai/zachlarmer/63e355dc-0418-4a0d-bbb1-c122aafb9ae3/index.html</link>
+            <guid isPermaLink="false">63e355dc-0418-4a0d-bbb1-c122aafb9ae3</guid>
+            <pubDate>Thu, 21 Jan 2016 17:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bbb3305-fad5-413b-abca-968c3e96fbb8.jpg">]]></description>
-            <link>undefinedc6d9c7ba-847a-4bd8-889f-d415660f4e18/index.html</link>
+            <link>https://thegrid.ai/zachlarmer/c6d9c7ba-847a-4bd8-889f-d415660f4e18/index.html</link>
             <guid isPermaLink="false">c6d9c7ba-847a-4bd8-889f-d415660f4e18</guid>
             <pubDate>Thu, 21 Jan 2016 17:04:27 GMT</pubDate>
         </item>
